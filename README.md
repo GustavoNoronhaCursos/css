@@ -11,12 +11,4 @@
 ![image](https://user-images.githubusercontent.com/77861206/109052243-2748a900-76ba-11eb-8890-3268d53c6207.png)
 
 
-## Como executar o front end
-
-```bash
-git clone https://github.com/GustavoNoronhaCursos/css
-$ cd html
-$ abra
-```
-
 Bom aprendizado.<br/>
