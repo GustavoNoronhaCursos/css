@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img2.gratispng.com/20180704/qpr/kisspng-cascading-style-sheets-logo-css3-html-web-developm-5b3d40a4d013e0.7927254715307409008523.jpg" width="200" />
+  <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" width="200" />
 </p>
 
 <h1 align="center">
@@ -8,7 +8,7 @@
 
 
 ## Imagens do Projeto
-![image](https://user-images.githubusercontent.com/77861206/109052013-ec467580-76b9-11eb-8751-298346564d7b.png)
+![image](https://user-images.githubusercontent.com/77861206/109052243-2748a900-76ba-11eb-8890-3268d53c6207.png)
 
 
 ## Como executar o front end
