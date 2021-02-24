@@ -1,0 +1,11 @@
+span {
+    display: block;
+}
+
+span {
+    display: inline;
+}
+
+span {
+    display: inline-block;
+}

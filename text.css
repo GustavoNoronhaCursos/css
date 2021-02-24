@@ -1,0 +1,21 @@
+/* text colors */
+
+h1 {
+    background-color: black;
+    color: white;
+}
+
+
+/* alinhamentos de texto */
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: left;
+}
+
+h3 {
+    text-align: right;
+}
